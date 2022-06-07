@@ -5,15 +5,17 @@
     <Version>0.5.0-alpha</Version>
     <Authors>Mihai Stan</Authors>
     <Company />
-    <Description>BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#.</Description>
+    <Description>BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#. Target .NET 6.0</Description>
     <Copyright>Mihai Stan</Copyright>
-    <PackageProjectUrl></PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Mehigh17/BlazorLeaflet</RepositoryUrl>
+    <PackageProjectUrl></PackageProjectUrl>    
+    <RepositoryUrl>https://github.com/djrodriguezperez/BlazorLeaflet-net6.0</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageId>BlazorLeaflet-net6</PackageId>
     <PackageTags>blazor, leaflet, c#, js, interop</PackageTags>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageLicenseExpression></PackageLicenseExpression>
     <LangVersion>8</LangVersion>
+    <IsPackable>true</IsPackable>
   </PropertyGroup>
 
 
